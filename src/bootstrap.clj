@@ -1,4 +1,4 @@
-(ns user)-suresh
+(ns user)
 
 (use '[com.redhat.qe.auto.selenium.selenium :only [browser]])
 (use '[clojure.pprint :only (pp pprint)])
