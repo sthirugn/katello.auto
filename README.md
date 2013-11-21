@@ -97,3 +97,4 @@ with it.
 
 Install [http://www.vim.org/scripts/script.php?script_id=2531](SLIMV),
 type `,c` to connect to whatever port you started the swank server on.
+Hello
